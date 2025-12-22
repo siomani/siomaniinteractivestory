@@ -96,3 +96,10 @@ a:hover {
     0 0 25px darkred;
   margin-top: 20px;
 }
+.survived {
+  color: #3cff3c; /* bright green */
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
